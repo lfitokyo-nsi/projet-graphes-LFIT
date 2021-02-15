@@ -1,4 +1,4 @@
-# PROJET GRAPHES
+## PROJET GRAPHES
 
 **Programme**
 * Graphes: structures relationnelles. Sommets, arcs, arêtes, graphes orientés ou non orientés.

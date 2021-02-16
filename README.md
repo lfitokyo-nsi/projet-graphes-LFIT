@@ -23,4 +23,5 @@
 * Etudier les bibliothèques OSMNX et NETWORKX
 * Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_structDo_graphe.html
 * Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_algo_graphe.html
+* Mettre les données obtenues avec OSMNX sous forme de matrice d'adjacence et de liste d'adjacence.
 

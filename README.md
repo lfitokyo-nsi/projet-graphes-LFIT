@@ -14,6 +14,12 @@
 * Comment obtient-on la première figure ? Présenter au moins trois méthodes.
 
 
-**Dans README**
+**Dans README.md**
 * Présentation de OSMNX avec liens et ressources
 * Présentation de NETWORKS avec liens et ressources
+
+
+**Les étapes du projet**
+* Etudier les bibliothèques OSMNX et NETWORKX
+* Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_structDo_graphe.html
+

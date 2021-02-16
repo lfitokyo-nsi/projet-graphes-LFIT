@@ -22,4 +22,5 @@
 **Les étapes du projet**
 * Etudier les bibliothèques OSMNX et NETWORKX
 * Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_structDo_graphe.html
+* Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_algo_graphe.html
 

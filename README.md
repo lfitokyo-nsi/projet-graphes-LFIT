@@ -4,14 +4,20 @@
 * Graphes: structures relationnelles. Sommets, arcs, arêtes, graphes orientés ou non orientés.
 * Algorithmes sur les graphes.
 
+<br />
+
 **Bibliothèques**
 * OSMNX
 * NETWORKX
+
+<br />
 
 **Présentation orale**
 * Qu'est-ce que OSMNX ?
 * Qu'est-ce que NETWORKX ?
 * Comment obtient-on la première figure ? Présenter au moins trois méthodes.
+
+<br />
 
 **Dans README.md**
 * Présentation de OSMNX avec liens et ressources
@@ -20,8 +26,12 @@
 * Documentation
 * Références / sources
 
+<br />
+
 **Les étapes du projet**
+
 _Mettre à jour régulièrement README.md_
+
 * Étudier les bibliothèques OSMNX et NETWORKX.
 * Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_structDo_graphe.html
 * Lire et étudier : https://pixees.fr/informatiquelycee/n_site/nsi_term_algo_graphe.html
